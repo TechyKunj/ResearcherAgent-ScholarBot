@@ -1,4 +1,4 @@
-
+![ScholarBot UI](photo/P1.png)
 # 📚 ScholarBot – Your AI-powered Research Companion  
 
 ScholarBot helps you **explore ideas, gain insights, and generate research papers** (for learning and educational purposes).  
@@ -81,7 +81,6 @@ Hi, I want to write a research paper on Machine Learning
 ---
 
 ## 📸 Screenshots
-![ScholarBot UI](photo/P1.png)
 ![ScholarBot UI](photo/P2.png)
 * 🔍 Asking a research question
 * 📑 AI-generated research insights
@@ -97,3 +96,4 @@ Contributions are welcome!
 3. Submit a Pull Request 🚀
 
 ---
+📄 [Download Sample Research Paper](Output/Sample_Paper.pdf)
