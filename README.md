@@ -19,7 +19,7 @@ It combines cutting-edge AI with research tools to make academic exploration fas
 ## 🛠️ Tech Stack  
 
 - **Frontend**: Streamlit  
-- **AI Frameworks**: LangGraph, LangChain, OpenAI  
+- **AI Frameworks**: LangGraph, LangChain, Gemini  
 - **Research Tools**: arXiv API, PyPDF2  
 - **Backend**: Python  
 
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 Set up your `.env` file:
 
 ```ini
-OPENAI_API_KEY=your_api_key_here
+GEMINI_API_KEY=""
 ```
 
 Run ScholarBot:
@@ -81,7 +81,8 @@ Hi, I want to write a research paper on Machine Learning
 ---
 
 ## 📸 Screenshots
-
+![ScholarBot UI](photo/P1.png)
+![ScholarBot UI](photo/P2.png)
 * 🔍 Asking a research question
 * 📑 AI-generated research insights
 
@@ -96,16 +97,3 @@ Contributions are welcome!
 3. Submit a Pull Request 🚀
 
 ---
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-```
-
-⚡ Just copy-paste this into your `README.md` file.  
-
-👉 Do you also want me to **add badges (Python, Streamlit, MIT License, OpenAI)** at the top of the README for a more professional look?
-```
