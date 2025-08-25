@@ -96,4 +96,4 @@ Contributions are welcome!
 3. Submit a Pull Request 🚀
 
 ---
-📄 [Download Sample Research Paper](Output/Sample_Paper.pdf)
+📄 [Download Sample Research Paper](output/Sample_Paper.pdf)
