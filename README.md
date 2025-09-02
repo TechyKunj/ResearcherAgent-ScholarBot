@@ -10,7 +10,7 @@ It combines cutting-edge AI with research tools to make academic exploration fas
 
 - 🔎 Ask research questions in natural language.  
 - 📑 Browse & scrape academic papers from **arXiv**.  
-- 🤖 AI-powered insights powered by **OpenAI + LangGraph**.  
+- 🤖 AI-powered insights powered by **Gemini+Langchain + LangGraph**.  
 - 📝 Generate structured **research papers (PDF format)** for learning.  
 - 🎨 Clean interface built with **Streamlit**.  
 
